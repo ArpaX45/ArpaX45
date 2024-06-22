@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++ or DSA series
 - 📫 You can mail me on limpid2511@icloud.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I do it on my own free will
 
 <!---
